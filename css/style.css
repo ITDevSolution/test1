@@ -5,6 +5,40 @@ License: Creative Commons Attribution 3.0 Unported
 License URL: http://creativecommons.org/licenses/by/3.0/
 --*/
 
+/*Nosotros*/
+#nosotros{
+	margin-top: 3.5em;
+}
+/*Nosotros -- mision y vision*/
+#nosotros h2,p,h3{
+	font-family: 'Roboto';
+}
+#nosotros h2{
+	color: #129BF4;
+	text-transform: uppercase;
+}
+#nosotros .izquierda{
+	padding: 4em;
+	line-height: 1.9em;
+	
+}
+
+#nosotros .derecha{
+	padding: 4em;
+	line-height: 1.9em;
+	text-align: justify;
+}
+
+
+/*banner-nosotros*/
+#banner-nosotros .banner img{
+	padding-left: 0;
+	padding-right: 0;
+	width: 75%;
+	height: 15em;
+	background-size: cover;
+}
+
 .navbar-brand img{
 	width: 100%;
 }
@@ -696,7 +730,7 @@ p.para-w3-agile {
 
 /* contact */
 .contact-left {
-    background: #1b1b1b;
+    background: #007bff;
     padding: 5em 0em;
     height: 370px;
 }
